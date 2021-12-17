@@ -2,7 +2,7 @@
     "name": "magentohackathon/clipluginlist",
     "description": "",
     "require": {
-        "php": ">=7.4",
+        "php": "*",
         "magento/magento-composer-installer": "*"
     },
     "suggest": {
